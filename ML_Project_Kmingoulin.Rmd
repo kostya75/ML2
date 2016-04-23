@@ -1,0 +1,23 @@
+---
+title: "ML Project"
+author: "konstantin mingoulin"
+date: "April 23, 2016"
+output: html_document
+---
+
+###Background: How well the participants perform weight-lifting exercises.Six participnts performed a varity of exaercise. Partcipants were supervised by an experienced trainer.Five classes (A - "correct" and 4 other) were identified based on common mistakes.
+
+###Objective: use data from accelerometers on the belt, forearm, arm, and dumbell of 6 participants and predict the correct the class of how they performed the exercise
+
+
+```{r}
+summary(cars)
+```
+
+You can also embed plots, for example:
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
